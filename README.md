@@ -15,7 +15,7 @@ Treinamento de uma rede neural convolucional (CNN) utilizando uma base de dados 
 - [@caiocolares](https://www.github.com/caiocolares) Matricula: 2316788
 - [@danielripardo](https://github.com/dankiest) Matricula: 2316591
 - [@rafaelreis](https://github.com/rafaelsreis) Matricula: 2316598
-- [@caionps](https://github.com/caionps) Matricula: 2316788
+- [@caionps](https://github.com/caionps) Matricula: 2318273
 
 
 
