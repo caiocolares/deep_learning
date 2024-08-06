@@ -7,7 +7,7 @@ Treinamento de uma rede neural convolucional (CNN) utilizando uma base de dados 
 ### Fonte dos dados:
 
 
-[ASL]("https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data")
+[American Sign Language Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data)
 
 
 ## Authors
