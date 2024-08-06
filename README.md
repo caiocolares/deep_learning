@@ -22,4 +22,4 @@ Treinamento de uma rede neural convolucional (CNN) utilizando uma base de dados 
 ## Tech Stack
 
 - [Python](https://www.python.org/)
-- [Keras] (https://keras.io/)
+- [Keras](https://keras.io/)
